@@ -1,0 +1,85 @@
+||mydesi.click^
+||*xnxx*^
+||*Xhaccess*^
+||*xhamster1.desi*
+||*Xhamster.desi*
+||https://xhamster1.desi
+||xhamster.com^$all
+||xhamster.desi^$all
+||xhamsterlive.com^$all
+||xhcdn.com^$all
+||xhcdn.net^$all
+||xhcdn.xyz^$all
+||google.com/imghp
+||google.com/search?tbm=isch
+||anilab.to^$all
+anilab.to##section#section-download
+anilab.to##[id="section-download"]
+anilab.to##a[href*="section-download"]
+anilab.to/#section-download
+
+
+##animeschedule.net##div.timetable-column-show.aired.expanded:nth-of-type(4) > .show-link > .show-poster.show-poster-srcset.lazy
+||animeschedule.net/anime$all
+||animeschedule.net/anime
+||animepahe.pw
+||aniwatchtv.to
+||nhentai.to
+||freesexkahani.com
+||https://xhamster1.desi
+||mmsmazza.com
+||YouTube.com
+||youtube.com^
+||www.youtube.com^
+||m.youtube.com^
+||music.youtube.com^
+||studio.youtube.com^
+||youtu.be^
+
+||googlevideo.com^
+||*.googlevideo.com^
+
+||ytimg.com^
+||i.ytimg.com^
+||s.ytimg.com^
+
+||youtube.googleapis.com^
+||youtubei.googleapis.com^
+
+||youtube-nocookie.com^
+
+||ggpht.com^
+||yt3.ggpht.com^
+||yt4.ggpht.com^
+
+||doubleclick.net^
+||googlesyndication.com^
+||mangabuddy.com
+||mangacute.com
+||aniwatchtv.com
+||Animeschedule.net^$all
+||Reddit.com^$all
+||https://modlist.in^
+||Fandom.com^$all
+||*Imdb.com*^$all
+##a[href*="moviesmod"]
+##img[alt*="moviesmod" i]
+##img[title*="moviesmod" i]
+##*:has-text(/moviesmod/i)
+google.com##a[href*="moviesmod"]
+google.com##*:has-text(/moviesmod/i)
+##a[href*="animeschedule"]
+##img[alt*="animeschedule" i]
+##img[title*="animeschedule" i]
+##*:has-text(/animeschedule/i)
+
+google.com##a[href*="animeschedule"]
+google.com##*:has-text(/animeschedule/i)
+||driveseed.org^$all
+##a[href*="Driveseed"]
+##img[alt*="Driveseed" i]
+##img[title*="Driveseed" i]
+##*:has-text(/Driveseed/i)
+google.com##a[href*="Driveseed"]
+google.com##*:has-text(/Driveseed/i)
+
