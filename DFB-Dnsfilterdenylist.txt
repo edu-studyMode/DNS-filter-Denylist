@@ -83,3 +83,7 @@ google.com##*:has-text(/animeschedule/i)
 google.com##a[href*="Driveseed"]
 google.com##*:has-text(/Driveseed/i)
 
+||github.com^$all
+||githubusercontent.com^$all
+||githubassets.com^$all
+||github.io^$all
